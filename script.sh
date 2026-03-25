@@ -79,3 +79,4 @@ echo "==> Готово! int-srv01 настроен."
 
 cat /dev/null > ~/.bash_history
 history -c
+rm -f /root/script.sh
